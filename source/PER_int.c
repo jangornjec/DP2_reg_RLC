@@ -1,7 +1,6 @@
 /****************************************************************
 * FILENAME:     PER_int.c
 * DESCRIPTION:  periodic interrupt code
-* AUTHOR:       Mitja Nemec
 *
 ****************************************************************/
 #include    "PER_int.h"
